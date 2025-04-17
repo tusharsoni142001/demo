@@ -3,6 +3,8 @@ public class NewFile {
         System.out.println("Hello, World!");
         System.out.println("This is a simple Java program in new Branch.");
         System.out.println("This is a new line added in the new branch.");
+        
+        System.out.println("This is a new line added in the new branch 2.");
 
         
     }
