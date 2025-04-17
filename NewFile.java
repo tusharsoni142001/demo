@@ -5,6 +5,7 @@ public class NewFile {
         System.out.println("This is a new line added in the new branch.");
         
         System.out.println("This is a new line added in the new branch 2.");
+        System.out.println("This is a new line added in the new branch 3.");
 
         
     }
